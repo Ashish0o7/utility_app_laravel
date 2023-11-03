@@ -1,0 +1,11 @@
+/* public/css/custom.css */
+
+/* Gradient Background */
+.custom-navbar {
+    background: linear-gradient(135deg, #4CAF50, #9C27B0);
+}
+
+/* Text Color */
+.navbar-text {
+    color: #fff;
+}
