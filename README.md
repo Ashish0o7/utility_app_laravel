@@ -13,6 +13,8 @@ Same application which I built earlier in React, but this time in Laravel and ph
 ## Installation
 
 Clone this repo
+
 composer update
+
 Start mysql from xampp
 
